@@ -1,1 +1,1 @@
-# Imagem-editor
+# Futuramente.
